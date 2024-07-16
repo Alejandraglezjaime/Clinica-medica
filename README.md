@@ -20,7 +20,12 @@ Para la creación del json vamos a usar Insomnia, que es una herramienta similar
 
 • Como primer punto **creamos a nuestro cliente**, el cual fue creado en insomina; como segundo punto **obtendremos los datos que nuestro cliente ha enviado** y ya tenerlos a nivel del API de nuestro back end.
 
-•Una vez obtenido los datos del cliente serán guardados en una base de datos
+•Una vez obtenido los datos del cliente serán guardados en una base de datos.
+
+<p align="center">
+  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true" alt="Imagen app registro del medico" width="300"/>
+</p>
+
 
 ![Imagen app registro del medico ](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true)
 
