@@ -23,11 +23,12 @@ Para la creación del json vamos a usar Insomnia, que es una herramienta similar
 •Una vez obtenido los datos del cliente serán guardados en una base de datos.
 
 <p align="center">
-  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true" alt="Imagen app registro del medico" width="300"/>
+  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true" alt="Imagen app registro del medico" width="100"/>
 </p>
 
+Ejemplo de la base de datos.
 
-![Imagen app registro del medico ](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true)
+![Imagen ejemplo de la base de datos](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/ejemploBaseDatoss.jpg?raw=true)
 
 
 ### Consideraciones para las validaciones
@@ -53,7 +54,10 @@ En esta sección la información que debe ser mostrada del médico es: *nombre, 
 Tiene que ser ordenado ascendentemente, es decir, debe poder ser ordenado por nombre o por código.
 Debe ser paginado, con máximo 10 registros por página. 
 
-![Imagen app listado de medicos](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/listadoMedicos.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/listadoMedicos.jpg?raw=true" alt="Imagen app registro del medico" width="100"/>
+</p>
+
 
 ### Actualización de los datos de los médicos permitidos a actualizar.
 
