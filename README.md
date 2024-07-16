@@ -23,12 +23,12 @@ Para la creación del json vamos a usar Insomnia, que es una herramienta similar
 •Una vez obtenido los datos del cliente serán guardados en una base de datos.
 
 <p align="center">
-  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true" alt="Imagen app registro del medico" width="100"/>
+  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true" alt="Imagen app registro del medico" width="200"/>
 </p>
 
 Ejemplo de la base de datos.
 
-![Imagen ejemplo de la base de datos](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/ejemploBaseDatoss.jpg?raw=true)
+![Imagen ejemplo de la base de datos](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/ejemploBaseDatos.jpg?raw=true)
 
 
 ### Consideraciones para las validaciones
@@ -55,7 +55,7 @@ Tiene que ser ordenado ascendentemente, es decir, debe poder ser ordenado por no
 Debe ser paginado, con máximo 10 registros por página. 
 
 <p align="center">
-  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/listadoMedicos.jpg?raw=true" alt="Imagen app registro del medico" width="100"/>
+  <img src="https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/listadoMedicos.jpg?raw=true" alt="Imagen app registro del medico" width="200"/>
 </p>
 
 
