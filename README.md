@@ -22,7 +22,7 @@ Para la creación del json vamos a usar Insomnia, que es una herramienta similar
 
 •Una vez obtenido los datos del cliente serán guardados en una base de datos
 
-![Imagen app registro del medico ](https://github.com/Alejandraglezjaime/Clinica-medica-/blob/master/Img/registroMedico.jpg?raw=true)
+![Imagen app registro del medico ](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/registroMedico.jpg?raw=true)
 
 
 ### Consideraciones para las validaciones
@@ -48,7 +48,7 @@ En esta sección la información que debe ser mostrada del médico es: *nombre, 
 Tiene que ser ordenado ascendentemente, es decir, debe poder ser ordenado por nombre o por código.
 Debe ser paginado, con máximo 10 registros por página. 
 
-![Imagen app listado de medicos](https://github.com/Alejandraglezjaime/Clinica-medica-/blob/master/Img/listadoMedicos.jpg?raw=true)
+![Imagen app listado de medicos](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/listadoMedicos.jpg?raw=true)
 
 ### Actualización de los datos de los médicos permitidos a actualizar.
 
@@ -73,9 +73,9 @@ La información permitida para la actualización es: *nombre, télefono y direcc
 
 ## DEPENDENCIAS
 
-![Imagen dependencias de spring ](https://github.com/Alejandraglezjaime/Clinica-medica-/blob/master/Img/dependencias.jpg?raw=true)
-![Imagen dependencias de spring ](https://github.com/Alejandraglezjaime/Clinica-medica-/blob/master/Img/dependencias2.jpg?raw=true)
-![Imagen dependencias de spring ](https://github.com/Alejandraglezjaime/Clinica-medica-/blob/master/Img/dependencias3.jpg?raw=true)
+![Imagen dependencias de spring ](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/dependencias.jpg?raw=true)
+![Imagen dependencias de spring ](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/dependencias2.jpg?raw=true)
+![Imagen dependencias de spring ](https://github.com/Alejandraglezjaime/Clinica-medica/blob/master/Img/dependencias3.jpg?raw=true)
 
 
 
